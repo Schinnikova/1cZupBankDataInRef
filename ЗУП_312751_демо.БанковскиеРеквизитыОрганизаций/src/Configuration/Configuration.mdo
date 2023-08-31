@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="3e5d2287-a3fa-40ac-af87-9396ad99398e">
-  <name>БанковскиеРеквизитыОрганизаций</name>
+  <name>БанковскиеРеквизитыВСправках</name>
   <synonym>
     <key>ru</key>
-    <value>Банковские реквизиты организаций</value>
+    <value>Банковские реквизиты в справках</value>
   </synonym>
   <objectBelonging>Adopted</objectBelonging>
   <extension xsi:type="mdclassExtension:ConfigurationExtension">
@@ -28,7 +28,6 @@
   <scriptVariant>Russian</scriptVariant>
   <defaultLanguage>Language.Русский</defaultLanguage>
   <interfaceCompatibilityMode>TaxiEnableVersion8_2</interfaceCompatibilityMode>
-  <compatibilityMode>8.3.22</compatibilityMode>
   <languages uuid="467c79d0-d94a-4175-87a6-2c9bca9b6af0" extendedConfigurationObject="35d4deef-5b93-4c11-ac42-07beb390c332">
     <name>Русский</name>
     <objectBelonging>Adopted</objectBelonging>
