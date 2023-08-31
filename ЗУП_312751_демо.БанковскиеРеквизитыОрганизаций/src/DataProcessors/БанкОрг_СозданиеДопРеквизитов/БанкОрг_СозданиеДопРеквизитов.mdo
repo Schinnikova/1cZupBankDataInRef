@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ae209635-a181-4c45-b1d6-ef2821e0a525">
+  <producedTypes>
+    <objectType typeId="c0dbfda2-c81e-4bc1-867d-b979ebfcaef4" valueTypeId="69680ddb-d71f-4ff5-a56d-1ad734476f4b"/>
+    <managerType typeId="7c528f8b-d5e3-4719-a377-48354a100730" valueTypeId="22d1dbf2-63a2-4f66-a8c8-06e52684b348"/>
+  </producedTypes>
+  <name>БанкОрг_СозданиеДопРеквизитов</name>
+  <synonym>
+    <key>ru</key>
+    <value>Создание доп. реквизитов организаций</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.БанкОрг_СозданиеДопРеквизитов.Form.Форма</defaultForm>
+  <forms uuid="17417139-7434-4ff4-80d6-32ac08c2e5d1">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:DataProcessor>
